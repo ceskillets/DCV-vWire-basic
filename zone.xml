@@ -1,0 +1,17 @@
+<entry name="untrust">
+  <network>
+    <virtual-wire>
+      <member>ethernet1/2</member>
+      <member>ethernet1/3</member>
+    </virtual-wire>
+    <enable-packet-buffer-protection>yes</enable-packet-buffer-protection>
+  </network>
+</entry>
+<entry name="trust">
+  <network>
+    <virtual-wire>
+      <member>ethernet1/4</member>
+      <member>ethernet1/5</member>
+    </virtual-wire>
+  </network>
+</entry>

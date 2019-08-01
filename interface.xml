@@ -1,0 +1,30 @@
+<ethernet>
+ <entry name="ethernet1/2">
+   <virtual-wire>
+     <lldp>
+       <enable>no</enable>
+     </lldp>
+   </virtual-wire>
+ </entry>
+ <entry name="ethernet1/3">
+   <virtual-wire>
+     <lldp>
+       <enable>no</enable>
+     </lldp>
+   </virtual-wire>
+ </entry>
+ <entry name="ethernet1/4">
+   <virtual-wire>
+     <lldp>
+       <enable>no</enable>
+     </lldp>
+   </virtual-wire>
+ </entry>
+ <entry name="ethernet1/5">
+   <virtual-wire>
+     <lldp>
+       <enable>no</enable>
+     </lldp>
+   </virtual-wire>
+ </entry>
+</ethernet>
